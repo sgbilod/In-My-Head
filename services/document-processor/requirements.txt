@@ -48,7 +48,7 @@ flower==2.0.1  # Celery monitoring dashboard
 tenacity==8.2.3
 
 # Object storage
-minio==7.2.0
+minio==7.2.18
 
 # Utilities
 python-dotenv==1.0.0
